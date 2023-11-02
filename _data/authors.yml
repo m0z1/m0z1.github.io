@@ -21,7 +21,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         <username>
-    github:          <m0z1>
+    github:          m0z1
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -73,4 +73,4 @@ author2:
 
   picture:           https://placehold.it/128x128
   twitter:           <username>
-  github:            <m0z1>
+  github:            m0z1
